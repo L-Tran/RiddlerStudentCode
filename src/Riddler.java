@@ -11,7 +11,9 @@ public class Riddler {
     public String decryptOne(String encrypted) {
         String decrypted = "";
 
-        // TODO: Complete the decryptOne() function.
+        for(int i = 0; i < encrypted.length(); i++){
+
+        }
 
         return decrypted;
     }
