@@ -1,7 +1,6 @@
 import java.io.*;
 import org.junit.jupiter.api.Test;
 
-// bla blahb blha
 
 public class RiddlerTester {
 
